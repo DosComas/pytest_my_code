@@ -1,4 +1,3 @@
-from cmath import exp
 import pytest
 import cards
 
